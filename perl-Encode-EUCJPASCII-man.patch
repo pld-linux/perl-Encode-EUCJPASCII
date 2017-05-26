@@ -1,0 +1,10 @@
+--- Encode-EUCJPASCII-0.03/Makefile.PL.orig	2009-10-19 12:10:17.000000000 +0200
++++ Encode-EUCJPASCII-0.03/Makefile.PL	2017-05-26 21:23:46.372499780 +0200
+@@ -48,7 +48,6 @@
+ 		  SUFFIX	=> 'gz',
+ 		  DIST_DEFAULT => 'all tardist',
+ 	      },
+-	      MAN3PODS	=> {},
+ 	      PREREQ_PM => {
+ 			    'Encode'     => "1.41",
+                            },
