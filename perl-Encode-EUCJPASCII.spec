@@ -9,7 +9,7 @@ Summary:	Encode::EUCJPASCII - eucJP-ascii, an eucJP-open mapping
 Summary(pl.UTF-8):	Encode::EUCJPASCII - odwzorowanie eucJP-ascii (eucJP-open)
 Name:		perl-Encode-EUCJPASCII
 Version:	0.03
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
