@@ -4,7 +4,6 @@
 #
 %define		pdir	Encode
 %define		pnam	EUCJPASCII
-%include	/usr/lib/rpm/macros.perl
 Summary:	Encode::EUCJPASCII - eucJP-ascii, an eucJP-open mapping
 Summary(pl.UTF-8):	Encode::EUCJPASCII - odwzorowanie eucJP-ascii (eucJP-open)
 Name:		perl-Encode-EUCJPASCII
